@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionEasy", "ExceptionEasy\ExceptionEasy.csproj", "{37E3B8D7-822E-4A00-ADA8-5CA5C68B6547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionMedium", "ExceptionMedium\ExceptionMedium.csproj", "{4D86A663-57FA-4EFC-80DF-33E70F25D19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHard", "ExceptionHard\ExceptionHard.csproj", "{95ACE34D-7E59-4C54-BCDB-2EE860D2E981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E3B8D7-822E-4A00-ADA8-5CA5C68B6547}.Debug|x86.ActiveCfg = Debug|x86
+		{37E3B8D7-822E-4A00-ADA8-5CA5C68B6547}.Debug|x86.Build.0 = Debug|x86
+		{37E3B8D7-822E-4A00-ADA8-5CA5C68B6547}.Release|x86.ActiveCfg = Release|x86
+		{37E3B8D7-822E-4A00-ADA8-5CA5C68B6547}.Release|x86.Build.0 = Release|x86
+		{4D86A663-57FA-4EFC-80DF-33E70F25D19C}.Debug|x86.ActiveCfg = Debug|x86
+		{4D86A663-57FA-4EFC-80DF-33E70F25D19C}.Debug|x86.Build.0 = Debug|x86
+		{4D86A663-57FA-4EFC-80DF-33E70F25D19C}.Release|x86.ActiveCfg = Release|x86
+		{4D86A663-57FA-4EFC-80DF-33E70F25D19C}.Release|x86.Build.0 = Release|x86
+		{95ACE34D-7E59-4C54-BCDB-2EE860D2E981}.Debug|x86.ActiveCfg = Debug|x86
+		{95ACE34D-7E59-4C54-BCDB-2EE860D2E981}.Debug|x86.Build.0 = Debug|x86
+		{95ACE34D-7E59-4C54-BCDB-2EE860D2E981}.Release|x86.ActiveCfg = Release|x86
+		{95ACE34D-7E59-4C54-BCDB-2EE860D2E981}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
